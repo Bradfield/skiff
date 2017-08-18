@@ -45,7 +45,7 @@
     "split": "^1.0.0",
     "wreck": "^10.0.0"
   },
-  "pre-commit": [
+  "//pre-commit": [
     "style",
     "test"
   ],
